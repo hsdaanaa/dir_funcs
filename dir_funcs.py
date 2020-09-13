@@ -1,4 +1,5 @@
 #! usr/env/bin Python3 
+#TODO- remove redunant fucntions, comment, each function should be a program
 # get_file_paths_in_dir_and_subdirs- takes an input path to a directory, and returns all files in the directory and its subdirectories
 import sys 
 import os
